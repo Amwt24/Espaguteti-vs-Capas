@@ -1,0 +1,3 @@
+# Este proyecto solo utiliza la biblioteca estándar de Python.
+# No hay dependencias externas necesarias para el funcionamiento básico.
+# Se pueden añadir librerías de testing aquí en el futuro (ej. pytest).
